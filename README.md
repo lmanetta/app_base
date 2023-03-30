@@ -1,3 +1,21 @@
+#Libreria de fontawesome
+https://cdnjs.com/libraries/font-awesome
+Se coloca dentro de index.html (en public) 
+
+##Logos para botones
+https://fontawesome.com/search?q=plus&o=r
+
+###bootstrap para tabla
+https://getbootstrap.com/docs/5.1/content/tables/
+
+####Dentro de node: controllers, database, models, routes => carpetas. app.js, package-lock.json, package.json
+#####Dentro de react: public, src => carpetas. package-lock.json, package.json
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
